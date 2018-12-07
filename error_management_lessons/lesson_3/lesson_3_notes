@@ -1,0 +1,30 @@
+They have dealt with syntax errors and print statements in the first two assignments, this is one step above dealing with run time errors.
+
+What they would know:
+This exercise would be precluded by an in class demonstration on how a debugger works. I would specifically be using the Visual Studio Java Debugger. 
+I would go over how to set breakpoints and what the step in and step out arrows each do within the code. I would also go over how to track variables, using a sample program, or possibly a previous programming assignment in the class.
+
+TAs would make sure everyone can correctly use the debugger in lab.
+Prefaced with how a basic binary search works
+
+This assignment will emphasize the utility of the debugger while also requiring the value of variables at certain points within the program. Forcing students away from using more comfortable print statements.
+
+Scaffolding: These are preset methods, all they are doing is tracking variables throughout them to find an error. I only made one error in each method and i tell them this. I also created and array and basic test code for the students. I also made sure that using just print statements would be hard, and that both methods used loops making debugging tracking obviously useful.
+This also goes over infinite loops and array out of bounds. Common programming mistakes
+
+errors in code:
+line 41
+lower = mid 
+should be:
+lower = mid + 1
+
+second method:
+goes out of bounds when searching the last term
+
+Dialogue:
+we will use the debugger to keep track of variables in some sample code.
+The sample code has some slight errors that we will use the debugger to solve.
+	Show that if you use print statements an infinite loop occurs in the first method
+	extremely confusing to solve. (Picture of this in folder)
+Each method has variables you need to keep track of. Write these down in a seperate text file, of before and after you find the error.
+

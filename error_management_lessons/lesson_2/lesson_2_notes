@@ -1,0 +1,25 @@
+I would go over in class before this assignment and lecture importance of constantly testing code. 
+I would explain that just because something compiles does not mean it works correctly.
+	I would give 2-3 examples of this by code that compiles but has unplanned output
+I would also go over the importance of testing blocks of code in order, especially if they rely on one another. I would go through a code with multiple method calls and a single error, but because the same code is called multiple times it will show up as many errors in the compiler.
+
+This lesson is important because it will emphasize the fact that the code should be written and tested in snippets, using print statements. Becuase if everything is tested and run at once it could become impossible to debug.
+
+I will give sample testing code in order to test each of the methods. This will be testing multiple test cases and the expected output. The test will be seperated by each method, and introduce the idea of isolating elements to test them and also using print statements. I will tell them they must copy and paste the test code into the main method when they finish every method.
+
+If they are having trouble within some of the methods, I will encourage them to break the method into parts and use print statements on each part.
+
+I will also demonstrate how to use test code on the first method in class.
+
+What they know: 3-4 weeks into an intro java course. Comfortable calling methods within the main class. Should have learned the basics of arrays. 
+
+Scaffolding:
+I give them the test code for every method and the planned output for the first method. I would demonstrate how to do the first method in class. I outline all the functions they will need and give them a completed function that prints out all the output they will need. I give them a guide on how to use arrayList and a basic compiling guide. I also give them instructions within the code on how to complete each method.
+
+Purpose:
+Non programmers and beginners could go through a whole project typing faulty code that compiles correctly and never test it, or only test it at the end, and then be overwhelmed by a bunch of run time errors. This could cause hours of frustration or make them have to completely start from scratch what they had been working on. Not something you want people trying out programming for the first time to do.
+When I was a beginner this would waste hours of my time, but it really hit home when I was in the library with a friend of mine taking java 2800. They had been working on a pretty complicated project with classes and objects for the first time. Suddenly he stopped typing, stretched, and said im done, it works perfectly. That seemed like a strange thing to say so I asked how do you know it works. He said, well I filled out all the required methods and when I compiled it I got no compiler errors. 
+Not the mindset you want students to have. 
+One that can be remedied by demonstration and projects allowing the students to improve their error management.
+
+

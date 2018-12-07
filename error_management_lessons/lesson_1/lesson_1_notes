@@ -1,0 +1,13 @@
+The students will be required to make a list of each error they find, describe it, and how to solve it. They will be highly encouraged to google each error and find the solution on stack overflow.
+
+Scaffolding: I made sure that all the errors were easily searchable and within the first three google search results, and they are some of the most common compiler java errors.
+Finally the program will be tested for accuracy.
+
+Current Knowledge: As they are first getting used to methods, 2-3 weeks into intro course. Knowledge of basic variable types, but before they get their first major programming assignment.
+
+The only problem is that they may be overwhelmed with dealing with multiple errors at the same time. I would likely demonstrate in class how to do this.
+
+Dialogue:
+This lesson will be on how to look up errors. This program was made with 5-10 errors. If you come across an error, it will show the line number. Work on errors from first in the program to last.
+For each error you fix, I want you to describe the error and what you did to solve it in a seperate doc. Search for anything you are unsure of. It should probably show up in the first few links.
+Do example where you search for first error where the class is misnamed. If you search the whole error it comes up in the first stack overflow link.

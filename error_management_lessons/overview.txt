@@ -1,0 +1,10 @@
+These sessions are going to be integrated into either the intro to java 2800 class or the first java programming course for majors.
+The emphasis is on simple 1 hour code assignments that teach the importance of error management, testing, and debugging. Lectures would start to integrate these lessons after the basics of variable types and if + while statements were completed. So about 2-3 weeks into the course. 
+I followed the uf introductory programming course to gauge student ability for each assignment.
+
+The details of each lesson are in the folder.
+Each lesson builds on the next.
+We go from learning how to google and deal with basic compiler errors in lesson 1. To dealing with semantic as well as syntax errors using print statements in lesson 2. To dealing with more in depth runtime errors in lesson 3.
+
+
+GET RID OF PROGRAMMING ASSIGNMENTS. THEY PRESUME TO TEACH TOO MUCH AT THE SAME TIME WITHOUT GUIDANCE. USE SMALLER MINI ASSIGNMENTS.

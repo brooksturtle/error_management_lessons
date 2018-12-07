@@ -1,0 +1,50 @@
+// create arrayList
+ArrayList<String> myArray = new ArrayList<String>();
+
+// test addWord
+myArray = addWord("yeti", myArray);
+String newWord = "iceland";
+myArray = addWord(newWord, myArray);
+myArray = addWord("snow", myArray);
+myArray = addWord("bigfoot", myArray);
+myArray = addWord("octopus", myArray);
+// see if all were added correctly: yeti iceland snow bigfoot octopus
+printStringArray(myArray);
+
+// test deleteWord
+myArray = deleteWord(2, myArray);
+printStringArray(myArray);
+myArray = deleteWord(-5, myArray);
+myArray = deleteWord(99, myArray);
+myArray = deleteWord(0, myArray);
+// add more words back as needed
+printStringArray(myArray);
+
+// test searchForWord
+printStringArray(myArray);
+int indexOfWord = searchForWord("octopus");
+System.out.println(indexOfWord);
+// word that is not in list, should return -1
+indexOfWord = searchForWord("hippo");
+System.out.println(indexOfWord);
+// make sure to test edge cases, first and last words in list
+
+// test deleteWordByValue
+printStringArray(myArray);
+myArray = deleteWordByValue("octopus");
+printStringArray(myArray);
+// check for words that do not exits, and edge cases
+
+// test reverseString
+String myWord = "rhino";
+String reversedWord = reverseString(myWord);
+System.out.println(reversedWord);
+// try edge cases, 1 character words, longer words, etc.
+
+// test AddReversedWord
+printStringArray(myArray);
+myArray = addReversedWord("fire", myArray);
+printStringArray(myArray);
+myArray = addReversedWord("silicon", myArray);
+printStringArray(myArray);
+
